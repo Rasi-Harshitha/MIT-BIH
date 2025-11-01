@@ -1,0 +1,13 @@
+{
+  "split_train": 0.6,
+  "epochs": 20,
+  "balanced": false,
+  "model": "SimpleCNN1D",
+  "best_val_acc": 0.9614454188085878,
+  "test": {
+    "acc": 0.9576615189241898,
+    "prec_macro": 0.9180389002249104,
+    "rec_macro": 0.7089698061494605,
+    "f1_macro": 0.7713268061284064
+  }
+}

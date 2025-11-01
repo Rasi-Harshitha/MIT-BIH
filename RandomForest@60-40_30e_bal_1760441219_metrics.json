@@ -1,0 +1,13 @@
+{
+  "split_train": 0.6,
+  "epochs": 30,
+  "balanced": true,
+  "model": "RandomForest",
+  "best_val_acc": null,
+  "test": {
+    "acc": 0.9816540807764701,
+    "prec_macro": 0.9683911036720799,
+    "rec_macro": 0.8519377788726585,
+    "f1_macro": 0.9008552083680493
+  }
+}

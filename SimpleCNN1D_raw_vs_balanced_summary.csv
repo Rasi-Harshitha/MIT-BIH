@@ -1,0 +1,4 @@
+Split,Raw_Accuracy,Balanced_Accuracy,Raw_Precision,Balanced_Precision,Raw_Recall,Balanced_Recall,Raw_F1,Balanced_F1
+60:40 Split,0.962,0.956,0.933,0.795,0.731,0.81,0.799,0.802
+70:30 Split,0.966,0.969,0.918,0.883,0.777,0.83,0.829,0.852
+80:20 Split,0.965,0.963,0.892,0.83,0.785,0.837,0.829,0.829

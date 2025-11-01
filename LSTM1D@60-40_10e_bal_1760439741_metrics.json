@@ -1,0 +1,13 @@
+{
+  "split_train": 0.6,
+  "epochs": 10,
+  "balanced": true,
+  "model": "LSTM1D",
+  "best_val_acc": 0.9071666162685214,
+  "test": {
+    "acc": 0.9060707077578973,
+    "prec_macro": 0.6383685713131023,
+    "rec_macro": 0.8040939206908826,
+    "f1_macro": 0.6929728960272985
+  }
+}

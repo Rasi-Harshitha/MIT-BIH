@@ -1,0 +1,9 @@
+{
+  "tag": "LSTM1D@70-30_30e_bal_1760449526",
+  "split_train": 0.7,
+  "epochs": 30,
+  "balanced": true,
+  "model": "LSTM1D",
+  "test_acc": 0.9796208387506424,
+  "test_f1_macro": 0.8983434365288263
+}

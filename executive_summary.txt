@@ -1,0 +1,6 @@
+=== Executive Summary: Balanced vs Raw ===
+Cases compared (per split × epochs): 9
+Balanced wins by macro‑F1 in 9 / 9 cases; Raw wins in 0 / 9.
+Average macro‑F1 improvement (Balanced – Raw): +0.0761
+Largest macro‑F1 gain: +0.1794 at split 70:30 @ 10 epochs.
+Recommendation: **Use GAN-balanced training** for this dataset; it more often improves macro‑F1 and helps minority classes.
